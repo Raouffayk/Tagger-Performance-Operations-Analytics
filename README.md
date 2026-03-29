@@ -30,4 +30,4 @@ Operations management needed visibility into team performance and efficiency to 
 - Data-driven decision support
 
 ## Screenshots
-(Add dashboard images here)
+<img width="1314" height="911" alt="Screenshot 2026-02-24 014119" src="https://github.com/user-attachments/assets/cc41186e-0cc5-4c65-85e1-d931a5bcdecb" />
